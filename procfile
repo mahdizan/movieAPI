@@ -1,1 +1,1 @@
-Commande ECHO activ‚e.
+web: gunicorn my_app:app
